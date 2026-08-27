@@ -1,13 +1,18 @@
-# L293D Motor Driver Shield PCB
+L293D Motor Driver PCB
 
-Custom PCB design for an Arduino Shield using the L293D H-Bridge motor driver IC to control DC motors.
+Overview
 
-## Project Details
-- **CAD Tool:** KiCad 9.0
-- **Driver IC:** L293D H-Bridge
-- **Application:** Robotics & DC Motor Control
+A custom motor driver PCB designed for controlling DC motors using the L293D H-Bridge motor driver. The board was designed as part of an embedded systems and electronics development project.
 
-## Files Included
-- `.kicad_sch`: Schematic Design
-- `.kicad_pcb`: PCB Layout
-- `.kicad_pro`: KiCad Project Configuration
+Features
+Dual DC motor control using L293D
+H-Bridge motor driver configuration
+74HC595 shift register for digital output expansion
+External power and motor connection interfaces
+Custom schematic and PCB layout
+Tools & Technologies
+KiCad
+PCB Design
+Electronic Circuit Design
+L293D H-Bridge Motor Driver
+74HC595 Shift Register
