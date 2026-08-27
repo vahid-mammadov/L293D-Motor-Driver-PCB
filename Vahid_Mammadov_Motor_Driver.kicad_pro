@@ -449,7 +449,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Vahid_Mammadov_Motor Driver Shield.kicad_pro",
+    "filename": "Vahid_Mammadov_Motor_Driver.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -478,19 +478,14 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": [
-      {
-        "netclass": "Default",
-        "pattern": "ST"
-      }
-    ]
+    "netclass_patterns": []
   },
   "pcbnew": {
     "last_paths": {
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "Vahid_Mammadov_Motor_Driver.GERBER/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
@@ -600,14 +595,6 @@
       "version": 1
     },
     "net_format_name": "",
-    "ngspice": {
-      "fix_include_paths": true,
-      "meta": {
-        "version": 0
-      },
-      "model_mode": 4,
-      "workbook_filename": ""
-    },
     "page_layout_descr_file": "",
     "plot_directory": "",
     "space_save_all_events": true,
@@ -622,7 +609,7 @@
   },
   "sheets": [
     [
-      "c5a61aa8-56c9-4372-9830-5d8f483880df",
+      "eb44b1b7-ffaa-4120-96b4-861f50d1b78c",
       "Root"
     ]
   ],
